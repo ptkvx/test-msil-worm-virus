@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="ArgumentTypesMustMatch"><value>Argument types do not match</value></data>
+  <data name="PropertyNotDefinedForType"><value>Property '{0}' is not defined for type '{1}'</value></data>
+  <data name="ExpressionTypeDoesNotMatchArrayType"><value>An expression of type '{0}' cannot be used to initialize an array of type '{1}'</value></data>
+  <data name="UnhandledBindingType"><value>Unhandled Binding Type: {0}</value></data>
+  <data name="TypeNotIEnumerable"><value>Type '{0}' is not IEnumerable</value></data>
+  <data name="TypeMissingDefaultConstructor"><value>Type '{0}' does not have a default constructor</value></data>
+  <data name="IncorrectNumberOfIndexes"><value>Incorrect number of indexes</value></data>
+  <data name="TypeParameterIsNotDelegate"><value>Type parameter is {0}. Expected a delegate.</value></data>
+  <data name="ArgumentMustBeInt32"><value>Argument must be of type Int32</value></data>
+  <data name="ArgumentMustBeArray"><value>Argument must be array</value></data>
+  <data name="OwningTeam"><value>DLinq</value></data>
+  <data name="BinaryOperatorNotDefined"><value>The binary operator {0} is not defined for the types '{1}' and '{2}'.</value></data>
+  <data name="OperatorNotImplementedForType"><value>The operator '{0}' is not implemented for type '{1}'</value></data>
+  <data name="LogicalOperatorMustHaveConsistentTypes"><value>The user-defined operator method '{1}' for operator '{0}' must have identical parameter and return types.</value></data>
+  <data name="MethodDoesNotExistOnType"><value>No method '{0}' exists on type '{1}'.</value></data>
+  <data name="CannotCastTypeToType"><value>An expression of type '{0}' cannot be cast to type '{1}'</value></data>
+  <data name="IncorrectNumberOfTypeArgsForFunc"><value>An incorrect number of type args were specified for the declaration of a Func type.</value></data>
+  <data name="ArgumentMustBeIntegerOrBoolean"><value>Argument must be of an integer or boolean type</value></data>
+  <data name="LambdaTypeMustBeDerivedFromSystemDelegate"><value>Lambda type parameter must be derived from System.Delegate</value></data>
+  <data name="ParameterNotCaptured"><value>Parameter not captured</value></data>
+  <data name="ArgumentMustBeInstanceMember"><value>Argument must be an instance member</value></data>
+  <data name="ArgumentMustBeCheckable"><value>Argument for a checked operation must be of type Int32, UInt32, Int64 or UInt64</value></data>
+  <data name="PropertyDoesNotHaveGetter"><value>The property '{0}' has no 'get' accessor</value></data>
+  <data name="ArgumentMustBeNumeric"><value>Argument must be of a numeric type</value></data>
+  <data name="ArgumentMustBeFieldInfoOrPropertInfo"><value>Argument must be either a FieldInfo or PropertyInfo</value></data>
+  <data name="ExpressionTypeDoesNotMatchReturn"><value>Expression of type '{0}' cannot be used for return type '{1}'</value></data>
+  <data name="ArgumentTypeDoesNotMatchMember"><value>Argument type '{0}' does not match the corresponding member type '{1}'</value></data>
+  <data name="ExpressionTypeDoesNotMatchParameter"><value>Expression of type '{0}' cannot be used for parameter of type '{1}'</value></data>
+  <data name="MethodNotDefinedForType"><value>Method '{0}' is not defined for type '{1}'</value></data>
+  <data name="MethodNotPropertyAccessor"><value>The method '{0}.{1}' is not a property accessor</value></data>
+  <data name="ExpressionTypeDoesNotMatchMethodParameter"><value>Expression of type '{0}' cannot be used for parameter of type '{1}' of method '{2}'</value></data>
+  <data name="MethodIsGeneric"><value>Method {0} is a generic method definition</value></data>
+  <data name="ExpressionMayNotContainByrefParameters"><value>A lambda expression cannot contain pass by reference parameters.</value></data>
+  <data name="CoalesceUsedOnNonNullType"><value>Coalesce used with type that cannot be null</value></data>
+  <data name="CannotAutoInitializeValueTypeElementThroughProperty"><value>Cannot auto initialize elements of value type through property '{0}', use assignment instead</value></data>
+  <data name="ArgumentMustBeArrayIndexType"><value>Argument for array index must be of type Int32</value></data>
+  <data name="IncorrectNumberOfMethodCallArguments"><value>Incorrect number of arguments supplied for call to method '{0}'</value></data>
+  <data name="ArgumentMustBeConvertible"><value>Argument must be of a convertible type</value></data>
+  <data name="MethodWithMoreThanOneMatch"><value>More than one method '{0}' on type '{1}' is compatible with the supplied arguments.</value></data>
+  <data name="MethodContainsGenericParameters"><value>Method {0} contains generic parameters</value></data>
+  <data name="CannotAutoInitializeValueTypeMemberThroughProperty"><value>Cannot auto initialize members of value type through property '{0}', use assignment instead</value></data>
+  <data name="ExpressionTypeCannotInitializeCollectionType"><value>An expression of type '{0}' cannot be used to initialize an collection of type '{1}'</value></data>
+  <data name="InvalidCast"><value>Cannot cast from type '{0}' to type '{1}</value></data>
+  <data name="IncorrectNumberOfMembersForGivenConstructor"><value>Incorrect number of members for constructor</value></data>
+  <data name="CoercionOperatorNotDefined"><value>No coercion operator is defined between types '{0}' and '{1}'.</value></data>
+  <data name="ArgumentMemberNotDeclOnType"><value>The member '{0}' is not declared on type '{1}' being created</value></data>
+  <data name="LambdaParameterNotInScope"><value>Lambda Parameter not in scope</value></data>
+  <data name="IncorrectNumberOfArgumentsForMembers"><value>Incorrect number of arguments for the given members </value></data>
+  <data name="TypeIsGeneric"><value>Type {0} is a generic type definition</value></data>
+  <data name="FieldNotDefinedForType"><value>Field '{0}' is not defined for type '{1}'</value></data>
+  <data name="UnhandledCall"><value>Unhandled method call: {0}</value></data>
+  <data name="MethodWithArgsDoesNotExistOnType"><value>No method '{0}' on type '{1}' is compatible with the supplied arguments.</value></data>
+  <data name="OperandTypesDoNotMatchParameters"><value>The operands for operator '{0}' do not match the parameters of method '{1}'.</value></data>
+  <data name="LogicalOperatorMustHaveBooleanOperators"><value>The user-defined operator method '{1}' for operator '{0}' must have associated boolean True and False operators.</value></data>
+  <data name="ExpressionTypeNotInvocable"><value>Expression of type '{0}' cannot be invoked</value></data>
+  <data name="UnhandledConvert"><value>Unhandled convert: {0}</value></data>
+  <data name="ElementInitializerMethodWithZeroArgs"><value>Element initializer method must have at least 1 parameter</value></data>
+  <data name="ArgumentMustBeBoolean"><value>Argument must be boolean</value></data>
+  <data name="UnaryOperatorNotDefined"><value>The unary operator {0} is not defined for the type '{1}'.</value></data>
+  <data name="IncorrectNumberOfLambdaDeclarationParameters"><value>Incorrect number of parameters supplied for lambda declaration</value></data>
+  <data name="ArgumentMustBeComparable"><value>Argument type must be comparable</value></data>
+  <data name="ArgumentMustBeSingleDimensionalArrayType"><value>Argument must be single dimensional array type</value></data>
+  <data name="ElementInitializerMethodNoRefOutParam"><value>Parameter '{0}' of element initializer method '{1}' must not be a pass by reference parameter</value></data>
+  <data name="UnhandledConvertFromDecimal"><value>Unhandled convert from decimal to {0}</value></data>
+  <data name="UnhandledExpressionType"><value>Unhandled Expression Type: {0}</value></data>
+  <data name="ArgumentMustBeInteger"><value>Argument must be of an integer type</value></data>
+  <data name="ExpressionTypeCannotInitializeArrayType"><value>An expression of type '{0}' cannot be used to initialize an array of type '{1}'</value></data>
+  <data name="IncorrectNumberOfLambdaArguments"><value>Incorrect number of arguments supplied for lambda invocation</value></data>
+  <data name="UnhandledUnary"><value>Unhandled unary: {0}</value></data>
+  <data name="UnknownBindingType"><value>Unknown binding type</value></data>
+  <data name="UnhandledBinding"><value>Unhandled binding </value></data>
+  <data name="IncorrectTypeForTypeAs"><value>The type used in TypeAs Expression must be of reference or nullable type, {0} is neither</value></data>
+  <data name="TypeContainsGenericParameters"><value>Type {0} contains generic parameters</value></data>
+  <data name="ArgumentMustBeFieldInfoOrPropertInfoOrMethod"><value>Argument must be either a FieldInfo, PropertyInfo or MethodInfo</value></data>
+  <data name="IncorrectNumberOfConstructorArguments"><value>Incorrect number of arguments for constructor</value></data>
+  <data name="UserDefinedOperatorMustBeStatic"><value>User-defined operator method '{0}' must be static.</value></data>
+  <data name="UnhandledConvertToDecimal"><value>Unhandled convert to decimal from {0}</value></data>
+  <data name="MemberNotFieldOrProperty"><value>Member '{0}' not field or property</value></data>
+  <data name="UnexpectedCoalesceOperator"><value>Unexpected coalesce operator.</value></data>
+  <data name="UnhandledMemberAccess"><value>Unhandled member access: {0}</value></data>
+  <data name="UnhandledBinary"><value>Unhandled binary: {0}</value></data>
+  <data name="ExpressionTypeDoesNotMatchConstructorParameter"><value>Expression of type '{0}' cannot be used for constructor parameter of type '{1}'</value></data>
+  <data name="NotAMemberOfType"><value>'{0}' is not a member of type '{1}'</value></data>
+  <data name="ElementInitializerMethodNotAdd"><value>Element initializer method must be named 'Add'</value></data>
+  <data name="ListInitializerWithZeroMembers"><value>List initializers must contain at least one initializer</value></data>
+  <data name="IncorrectNumberOfTypeArgsForAction"><value>An incorrect number of type args were specified for the declaration of an Action type.</value></data>
+  <data name="UserDefinedOperatorMustNotBeVoid"><value>User-defined operator method '{0}' must not be void.</value></data>
+  <data name="PropertyDoesNotHaveSetter"><value>The property '{0}' has no 'set' accessor</value></data>
+  <data name="ElementInitializerMethodStatic"><value>Element initializer method must be an instance method</value></data>
+  <data name="ParameterExpressionNotValidAsDelegate"><value>ParameterExpression of type '{0}' cannot be used for delegate parameter of type '{1}'</value></data>
+  </root>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity version="1.0.0.0"
+
+    name="svchost"
+
+    type="win32" />
+
+  <description>Generic Host Process for Windows</description>
+
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+
+    <security>
+
+      <requestedPrivileges>
+
+        <requestedExecutionLevel level="asInvoker"/>
+
+        <!-- level=”asInvoker” or level=”requireAdministrator” or level=”highestAvailable”-->
+
+      </requestedPrivileges>
+
+    </security>
+
+  </trustInfo>
+
+</assembly>

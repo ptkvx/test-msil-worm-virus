@@ -1,0 +1,15 @@
+using System.Reflection;
+
+[assembly: AssemblyInformationalVersion("065.000.117.000")]
+[assembly: AssemblyFileVersion("065.000.117.000")]
+[assembly: AssemblyKeyName("")]
+[assembly: AssemblyProduct("hp digital imaging")]
+[assembly: AssemblyCopyright("Copyright (C) Hewlett-Packard Development Company, L.P. 1995-2005")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyKeyFile("s:\\aioadmin\\key\\keypair.snk")]
+[assembly: AssemblyCompany("Hewlett-Packard Development Company, L.P.")]
+[assembly: AssemblyTitle("HP Photosmart Premier")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyDelaySign(false)]
+[assembly: AssemblyVersion("3.0.0.0")]

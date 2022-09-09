@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>MBackMonitor</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="System.ServiceProcess">
+      <HintPath>/home/petik/dotnet/shared/Microsoft.NETCore.App/6.0.8/System.ServiceProcess.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Xml">
+      <HintPath>/home/petik/dotnet/shared/Microsoft.NETCore.App/6.0.8/System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="Arbus.Client.Base" />
+    <Reference Include="Arbus.Client.BusinessObjects" />
+    <Reference Include="Arbus.Client.PersonalArchivalEngine.BusinessObjects" />
+    <Reference Include="Arbus.Client.PersonalArchivalEngine.Base" />
+    <Reference Include="Arbus.Common" />
+  </ItemGroup>
+</Project>

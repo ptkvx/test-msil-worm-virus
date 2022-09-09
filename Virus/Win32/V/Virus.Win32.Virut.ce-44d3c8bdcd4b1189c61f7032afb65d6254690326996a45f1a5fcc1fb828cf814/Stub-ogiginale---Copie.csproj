@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Stub-ogiginale - Copie</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net20</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="-.resources" />
+    <None Remove="5803c74fae684bc69ca85364289a53dd" />
+    <None Remove="steb.Resources.resources" />
+    <EmbeddedResource Include="-.resources" />
+    <EmbeddedResource Include="5803c74fae684bc69ca85364289a53dd" />
+    <EmbeddedResource Include="steb.Resources.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualC" />
+    <Reference Include="PvLogiciels.dotNetProtector.Runtime" />
+  </ItemGroup>
+</Project>

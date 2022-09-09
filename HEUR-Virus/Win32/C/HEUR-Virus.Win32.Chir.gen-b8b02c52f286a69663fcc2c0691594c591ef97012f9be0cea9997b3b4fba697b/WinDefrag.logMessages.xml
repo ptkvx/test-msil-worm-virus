@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?> 
+<messages>
+<ar-SA>
+<failure>خطأ في تشغيل إلغاء تجزئة القرص لـ Windows.</failure>
+<success>تم تشغيل إلغاء تجزئة القرص لـ Windows بنجاح.</success>
+</ar-SA>
+<bg-BG>
+<failure>Грешка при дефрагментиране на диска с програмата на Windows.</failure>
+<success>Дефрагментирането на диска с програмата на Windows премина успешно.</success>
+</bg-BG>
+<ca-ES>
+<failure>Error en executar el desfragmentador del Windows.</failure>
+<success>El desfragmentador del Windows s'ha executat correctament.</success>
+</ca-ES>
+<cs-CZ>
+<failure>Chyba při defragmentaci systému Windows</failure>
+<success>Defragmentace systému Windows proběhla úspěšně.</success>
+</cs-CZ>
+<da-DK>
+<failure>Der opstod en fejl under Windows-defragmentering.</failure>
+<success>Windows-defragmentering er gennemført.</success>
+</da-DK>
+<de-DE>
+<failure>Fehler beim Ausführen der Windows Defragmentierung.</failure>
+<success>Windows Defragmentierung erfolgreich ausgeführt.</success>
+</de-DE>
+<el-GR>
+<failure>Σφάλμα εκτέλεσης της Ανασυγκρότησης των Windows.</failure>
+<success>Η Ανασυγκρότηση των Windows εκτελέστηκε με επιτυχία.</success>
+</el-GR>
+<en-US>
+<failure>Error running Windows Defragmentation.</failure>
+<success>Windows Defragmentation ran successfully.</success>
+</en-US>
+<es-ES>
+<failure>Error al ejecutar la Desfragmentación de Windows.</failure>
+<success>La Desfragmentación de Windows se ejecutó con éxito.</success>
+</es-ES>
+<et-EE>
+<failure>Windowsi kettadefragmentori käivitamisel ilmnes tõrge.</failure>
+<success>Windowsi kettadefragmentori käivitamine õnnestus.</success>
+</et-EE>
+<fi-FI>
+<failure>Virhe Windowsin Levyn eheytyksen suorittamisessa.</failure>
+<success>Windowsin Levyn eheytyksen suorittaminen onnistui.</success>
+</fi-FI>
+<fr-FR>
+<failure>Erreur lors de la défragmentation de Windows.</failure>
+<success>Défragmentation de Windows réussie.</success>
+</fr-FR>
+<he-IL>
+<failure>שגיאה בעת הפעלת איחוי של Windows‎.</failure>
+<success>איחוי של Windows הופעל בהצלחה.‏</success>
+</he-IL>
+<hr-HR>
+<failure>Pogreška prilikom pokretanja Windows defragmentacije.</failure>
+<success>Windows defragmentacija uspješno je pokrenuta.</success>
+</hr-HR>
+<hu-HU>
+<failure>A Windows lemeztöredettség-mentesítő futása során hiba lépett fel.</failure>
+<success>A Windows lemeztöredettség-mentesítő sikeresen lefutott.</success>
+</hu-HU>
+<it-IT>
+<failure>Errore durante l'esecuzione dell'Utilità Deframmentazione dischi di Windows completata.</failure>
+<success>Esecuzione dell'Utilità Deframmentazione dischi di Windows completata.</success>
+</it-IT>
+<ja-JP>
+<failure>Windowsのデフラグ実行中にエラーが発生しました。</failure>
+<success>Windowsのデフラグが正常に実行されました。</success>
+</ja-JP>
+<ko-KR>
+<failure>Window 조각 모음을 실행하는 동안 오류가 발생했습니다.</failure>
+<success>Window 조각 모음이 성공적으로 실행되었습니다.</success>
+</ko-KR>
+<lt-LV>
+<failure>Klaida vykdant „Windows“ defragmentavimą.</failure>
+<success>„Windows“ defragmentavimas įvykdytas sėkmingai.</success>
+</lt-LV>
+<lv-LV>
+<failure>Kļūda izpildot Windows defragmentāciju.</failure>
+<success>Windows defragmentācija izpildīta sekmīgi.</success>
+</lv-LV>
+<nb-NO>
+<failure>Feil ved kjøring av Windows defragmentering.</failure>
+<success>Windows defragmentering er fullført.</success>
+</nb-NO>
+<nl-NL>
+<failure>Fout bij het uitvoeren van Windows-defragmentatie.</failure>
+<success>Windows-defragmentatie voltooid.</success>
+</nl-NL>
+<pl-PL>
+<failure>Błąd w czasie defragmentacji dysku w systemie Windows.</failure>
+<success>Zakończono defragmentację dysku w systemie Windows.</success>
+</pl-PL>
+<pt-BR>
+<failure>Erro na execução da Desfragmentação do Windows.</failure>
+<success>Desfragmentação do Windows executada com sucesso.</success>
+</pt-BR>
+<pt-PT>
+<failure>Erro ao efectuar a desfragmentação do Windows.</failure>
+<success>A desfragmentação do Windows foi efectuada com êxito.</success>
+</pt-PT>
+<ro-RO>
+<failure>Eroare la executare Defragmentare Windows.</failure>
+<success>Defragmentare Windows s-a executat cu succes.</success>
+</ro-RO>
+<ru-RU>
+<failure>Ошибка при запуске программы дефрагментации дисков Windows.</failure>
+<success>Программа дефрагментации дисков Windows успешно запущена.</success>
+</ru-RU>
+<sk-SK>
+<failure>V priebehu používania programu Defragmentácia disku systému Windows sa vyskytla chyba.</failure>
+<success>Program Defragmentácia disku systému Windows prebehol úspešne.</success>
+</sk-SK>
+<sl-SL>
+<failure>Napaka med delovanjem Defragmentacije Windows.</failure>
+<success>Defragmentacija Windows je potekla uspešno.</success>
+</sl-SL>
+<sr-BA>
+<failure>Greška pri radu Windows defragmentatora.</failure>
+<success>Windows defragmentator je uspešno radio.</success>
+</sr-BA>
+<sv-SE>
+<failure>Ett fel uppstod när Diskdefragmenteraren i Windows kördes.</failure>
+<success>Diskdefragmenteraren i Windows har körts korrekt.</success>
+</sv-SE>
+<th-TH>
+<failure>ข้อผิดพลาดการเรียกใช้การจัดเรียงข้อมูลบนดิสก์ใน Windows</failure>
+<success>การจัดเรียงข้อมูลบนดิสก์ใน Windows เสร็จสมบูรณ์</success>
+</th-TH>
+<tr-TR>
+<failure>Windows Disk Birleştirme çalıştırılırken hata oluştu.</failure>
+<success>Windows Disk Birleştirme başarılı bir şekilde çalıştı.</success>
+</tr-TR>
+<uk-UA>
+<failure>Помилка запуску дефрагментації диска Windows.</failure>
+<success>Дефрагментацію диска Windows успішно запущено.</success>
+</uk-UA>
+<zh-CN>
+<failure>运行 Windows 碎片整理时出错。</failure>
+<success>Windows 碎片整理已成功运行。</success>
+</zh-CN>
+<zh-HK>
+<failure>執行 Windows 磁碟重組時發生錯誤。</failure>
+<success>已成功執行 Windows 磁碟重組。</success>
+</zh-HK>
+<zh-TW>
+<failure>執行 Windows 磁碟重組時發生錯誤。</failure>
+<success>成功執行 Windows 磁碟重組。</success>
+</zh-TW>
+</messages>

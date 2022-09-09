@@ -1,0 +1,11 @@
+using System.Reflection;
+using System.Runtime.CompilerServices;
+
+[assembly: AssemblyTitle("")]
+[assembly: AssemblyCompany("kGpjtQnYekikJUBDRYaXkYYJKLJgRQRhvlBWTnexoOosxyULbvlLsrZrnHJFsnADcnlfFEEUyKgrhVkOzzkssvUfPYYyrofcThDZWxwfpINjfAiTYULSycFgPcDbDdHZdN")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyCopyright("ZeGKfVnKcdYRnOJtpurEVdlZmdStiBDFNfOUBvrApfUzWXEVJcJTbrezvzIaboBhrFKfGANgnXCQZTvFHZoJOXDJJmHRpjnZAxBQNbJjyATSFJCrDdhrXNgElssiYTSysI")]
+[assembly: AssemblyProduct("BAWOnoIUSzrQrxnjBwOUEeKkNhzkzfYLgTTNCfFJcIQQiBaYPuOHJbyQTtviokNYhvntnbVgpQlWcgtIzEAvYxruooJgorLSWGNWtUkhPcxsAocURHikwJCjdVavzkBTWi")]
+[assembly: AssemblyFileVersion("334.492.881.719")]
+[assembly: AssemblyTrademark("nhDjBcGFYzTOTtDtokbvSrZfrJeiPgDsdQUYuVxlrZQcCfRrFnExoHdskvHibDTJhtUQLlIpXzFpQeJDjvWwOByJrBNLLapBLZiogekZfLDyFFsuUtUnVajYfjywVHvnnS")]
+[assembly: AssemblyVersion("751.418.849.782")]

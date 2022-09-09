@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="AccountValidationFailed"><value>Validation failed for the '{0}' account.</value></data>
+  <data name="DefaultInstanceName"><value>(Default)</value></data>
+  <data name="CreatingNewInstanceOfServer"><value>Creating a new instance of Analysis Services.</value></data>
+  <data name="CantRenameToDefaultWhenShilohIsInstalled"><value>Cannot rename to default instance because SQL Server 2000 Analysis Services is installed on this machine.</value></data>
+  <data name="ReCreatingRegistryKeysForPerfCounters"><value>The rollback operation is re-creating the registry keys for performance counters.</value></data>
+  <data name="ModifyingPerfCountersFile"><value>Modifying the performance counters file.</value></data>
+  <data name="PerfCounterUnregister"><value>Unregistering performance counters for the current Analysis Services instance.</value></data>
+  <data name="ProgramIsRunning"><value>Another instance of the '{0}' utility is running on this computer.</value></data>
+  <data name="SuccessToRenameMessage"><value>The instance has been successfully renamed to '{0}'; attempting to restart the service.</value></data>
+  <data name="StoppingSQLBrowserService"><value>Stopping SQLBrowser service.</value></data>
+  <data name="StoppingSelectedInstance"><value>Stopping Analysis Services instance, {0}.</value></data>
+  <data name="InstanceAlreadyExists"><value>An Analysis Services instance with the name '{0}' already exists.</value></data>
+  <data name="PerfCountersReRegister"><value>The rollback operation is re-registering performance counters for the previous Analysis Services instance.</value></data>
+  <data name="RegisterNewPerCountersFile"><value>Registering the new performance counters file.</value></data>
+  <data name="RenamingOperationRolledBack"><value>The '{0}' Analysis Services instance could not be renamed, and the renaming operation has been rolled back.</value></data>
+  <data name="SuccessToStartRenamedInstance"><value>The renamed '{0}' instance has started successfully.</value></data>
+  <data name="RenameInstanceDialogTitle"><value>Rename Instance</value></data>
+  <data name="FailedToStartService"><value>The Instance Rename utility could not start the '{0}' service in '{1}' seconds.</value></data>
+  <data name="ErrorDuringRenaming"><value>The following issue occurred during the renaming operation.
+
+{0}
+{1}
+
+Do you still want to continue with the renaming operation?</value></data>
+  <data name="StartingSQLBrowserService"><value>Starting SQLBrowser service.</value></data>
+  <data name="DelPrevServerInstance"><value>The rollback operation is deleting the new Analysis Services instance.</value></data>
+  <data name="FailedToRename"><value>The renaming operation failed because of the following problem.
+
+{0}
+
+Attempting to start the rollback operation.</value></data>
+  <data name="ModifyingRegistry"><value>Modifying the registry for Setup.</value></data>
+  <data name="FailedToStopService"><value> The Instance Rename utility could not stop the '{0}' service in '{1}' seconds.</value></data>
+  <data name="StartServerCommandDesc"><value>Starting renamed Analysis Services instance, {0}.</value></data>
+  <data name="StartingPreviousInstance"><value>The rollback operation is starting the previous Analysis Services instance.</value></data>
+  <data name="RestoringPerfCountersFile"><value>The rollback operation is restoring the performance counters file.</value></data>
+  <data name="CreatingRegistryKeysForPerfCounters"><value>Creating the registry keys for performance counters.</value></data>
+  <data name="ServiceIsDisabled"><value>The Instance Rename utility cannot continue because the '{0}' service is disabled. Close the Instance Rename utility, enable the '{0}' service, and then run the Instance Rename utility again.</value></data>
+  <data name="InvalidInstanceName"><value>The name specified for the Analysis Services instance is not valid. For more information about the guidelines used to name an instance of Analysis Services, see SQL Server Books Online.</value></data>
+  <data name="ReCreatePrevServerInstance"><value>The rollback operation is re-creating the previous instance of Analysis Services.</value></data>
+  <data name="ModifyingRedirectorFile"><value>Modifying the redirector file.</value></data>
+  <data name="ErrorDuringRollBack"><value>The following issue occurred during the rollback operation: 
+
+{0}
+{1}
+
+ Do you still want to continue the rollback operation?</value></data>
+  <data name="DelCurrServerInstance"><value>Deleting the current Analysis Services instance.</value></data>
+  <data name="RestoringRegistry"><value>The rollback operation is restoring the registry for Setup.</value></data>
+  </root>

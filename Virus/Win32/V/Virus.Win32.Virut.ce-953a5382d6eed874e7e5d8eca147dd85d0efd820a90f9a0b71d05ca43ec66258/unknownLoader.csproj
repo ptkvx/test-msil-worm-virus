@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>unknownLoader</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="dW5rbm93biwgdmVyc2lvbj0wLjAuMC4wLCBjdWx0dXJlPW5ldXRyYWwsIHB1YmxpY2tleXRva2VuPW51bGw-" />
+    <EmbeddedResource Include="dW5rbm93biwgdmVyc2lvbj0wLjAuMC4wLCBjdWx0dXJlPW5ldXRyYWwsIHB1YmxpY2tleXRva2VuPW51bGw-" />
+  </ItemGroup>
+  <ItemGroup />
+</Project>

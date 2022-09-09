@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Stup-M.Magdy DZLoader</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="c3R1cC1tLm1hZ2R5IGR6LCB2ZXJzaW9uPTEuMC4wLjAsIGN1bHR1cmU9bmV1dHJhbCwgcHVibGlja2V5dG9rZW49bnVsbA--" />
+    <EmbeddedResource Include="c3R1cC1tLm1hZ2R5IGR6LCB2ZXJzaW9uPTEuMC4wLjAsIGN1bHR1cmU9bmV1dHJhbCwgcHVibGlja2V5dG9rZW49bnVsbA--" />
+  </ItemGroup>
+  <ItemGroup />
+</Project>

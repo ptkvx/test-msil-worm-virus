@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="NoArgumentMatchingMethodsInQueryable"><value>There is no method '{0}' on class System.Linq.Enumerable that matches the specified arguments</value></data>
+  <data name="OwningTeam"><value>DLinq</value></data>
+  <data name="NoMatch"><value>Sequence contains no matching element</value></data>
+  <data name="ArgumentNotValid"><value>Argument {0} is not valid</value></data>
+  <data name="MoreThanOneMatch"><value>Sequence contains more than one matching element</value></data>
+  <data name="ArgumentNotSequence"><value>{0} is not a sequence</value></data>
+  <data name="MoreThanOneElement"><value>Sequence contains more than one element</value></data>
+  <data name="ArgumentNotLambda"><value>Argument {0} is not a LambdaExpression</value></data>
+  <data name="NoElements"><value>Sequence contains no elements</value></data>
+  <data name="NoMethodOnTypeMatchingArguments"><value>There is no method '{0}' on type '{1}' that matches the specified arguments</value></data>
+  <data name="NoMethodOnType"><value>There is no method '{0}' on type '{1}'</value></data>
+  <data name="EmptyEnumerable"><value>Enumeration yielded no results</value></data>
+  <data name="ArgumentNotIEnumerableGeneric"><value>{0} is not IEnumerable&lt;&gt;</value></data>
+  <data name="IncompatibleElementTypes"><value>The two sequences have incompatible element types</value></data>
+  <data name="ArgumentArrayHasTooManyElements"><value>Parameter {0} has too many elements</value></data>
+  <data name="NoNameMatchingMethodsInQueryable"><value>There is no method '{0}' on class System.Linq.Queryable that matches the specified arguments</value></data>
+  </root>
